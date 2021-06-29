@@ -25,7 +25,7 @@ int main() {
     d=d+b;
     cout<<fixed<<setprecision(1)<<d<<endl;
     // Concatenate and print the String variables on a new line
-    cout<<s<<str;
+    cout<<s+str;
     // The 's' variable above should be printed first.
 
     return 0;
